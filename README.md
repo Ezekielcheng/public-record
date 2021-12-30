@@ -1,2 +1,3 @@
 # public-record
-recording sth in learning
+
+学习记录
